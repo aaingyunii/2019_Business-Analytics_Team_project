@@ -1,3 +1,3 @@
 # 2019_Business-Analytics_Team_project
-2019년 대학교3학년 "Business Analytics" 수업에서 진행한 팀 프로젝트입니다.<br>주제는 "부동산의 거래 및 가격의 변화가 출산율에 영향을 미칠 것" 이라는 가설을 데이터 분석을 통해 검증한 내용 입니다.
-<br>사용된 데이터들은 **[통계청](),   [한국감정원](),   [통계지리정보서비스]()** 등의 사이트를 통해 수집하였습니다.
+2019년 대학교3학년 "Business Analytics" 수업에서 진행한 팀 프로젝트입니다.<br>주제는 **"부동산의 거래 및 가격의 변화가 출산율에 영향을 미칠 것" 이라는 가설을 데이터 분석을 통해 검증** 한 내용 입니다.
+<br>사용된 데이터들은 <br> **1. [통계청](https://kostat.go.kr/ansk/), <br>  2. [(한국감정원 -> )한국부동산원](https://www.data.go.kr/tcs/dss/selectDataSetList.do?dType=&keyword=&org=%ED%95%9C%EA%B5%AD%EB%B6%80%EB%8F%99%EC%82%B0%EC%9B%90&orgFilter=%ED%95%9C%EA%B5%AD%EB%B6%80%EB%8F%99%EC%82%B0%EC%9B%90&orgFullName=%ED%95%9C%EA%B5%AD%EB%B6%80%EB%8F%99%EC%82%B0%EC%9B%90&conditionType=search), <br>  3. [통계지리정보서비스](https://sgis.kostat.go.kr/view/index)** <br> 등의 사이트를 통해 수집하였습니다.
